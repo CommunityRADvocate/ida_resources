@@ -5,6 +5,7 @@ Collection of resources for learning, practicing, and referencing data analytics
 * [Treehouse SQL Cheatsheets](https://github.com/treehouse/cheatsheets/tree/master)
 * [NumPy](https://numpy.org/doc/stable/user/index.html)
 * [Pandas](https://pandas.pydata.org/pandas-docs/stable/user_guide/index.html#user-guide)
+* [Matplotlib](https://matplotlib.org/stable/index.html)
 * [Colab Markdown Guide](https://colab.research.google.com/notebooks/markdown_guide.ipynb)
 * [GitHub and Markdown Beginners Guide](https://github.com/jef-fortunahamid/Github-and-Markdown-Beginners-Guide)
 
